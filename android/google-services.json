@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60278561449",
+    "firebase_url": "https://lineslider-5a77c.firebaseio.com",
+    "project_id": "lineslider-5a77c",
+    "storage_bucket": "lineslider-5a77c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60278561449:android:494229a32c005c1255a7b8",
+        "android_client_info": {
+          "package_name": "com.mygdx.lineslider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60278561449-ate2so9fa20paobenrn25ocs73hnoo8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2N-ZyL1kLd0aFQlVPP9Qaa_GSmExEAao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60278561449-ate2so9fa20paobenrn25ocs73hnoo8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
